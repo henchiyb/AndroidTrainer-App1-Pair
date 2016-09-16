@@ -27,7 +27,6 @@
                 <ImageView
                     android:layout_width="30dp"
                     android:layout_height="30dp"
-                    android:src="@drawable/icon_settings"
                     android:layout_alignParentRight="true"
                     android:padding="16dp"
                     android:id="@+id/btn_setting"/>
@@ -58,7 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="3"
-            android:background="#fffff">
+            android:background="#ffffff">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
